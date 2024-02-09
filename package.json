@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "net": "*",
+    "http2": "*",
+    "tls": "*",
+    "cluster": "*",
+    "url": "*",
+    "crypto": "*",
+    "fake-useragent": "*",
+    "fs": "*"
+  }
+}
